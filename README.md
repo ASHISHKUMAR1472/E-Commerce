@@ -12,6 +12,6 @@ A simple e-commerce website using a dummy API.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/e-commerce-website.git
+git clone https://github.com/ASHISHKUMAR1472/E-Commerce-Website.git
 cd e-commerce-website
 
