@@ -13,5 +13,7 @@ A simple e-commerce website using a dummy API.
 
 ```bash
 git clone https://github.com/ASHISHKUMAR1472/E-Commerce-Website.git
-cd e-commerce-website
+cd E-Commerce-Website.git
+```
 
+Run With Live Server....
